@@ -1,0 +1,28 @@
+{
+  "name": "express-js-template",
+  "version": "1.0.0",
+  "description": "Application",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxi-boop/express-js-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Maxi-boop/express-js-template/issues"
+  },
+  "homepage": "https://github.com/Maxi-boop/express-js-template#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pug": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
