@@ -4,7 +4,7 @@
   "description": "Application",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "devStart": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Maxi-boop/express-js-template#readme",
   "dependencies": {
+    "ejs": "^5.0.1",
     "express": "^5.2.1",
     "pug": "^3.0.4"
   },
